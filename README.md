@@ -8,7 +8,8 @@
 - ⌨️ loves learning keybindings (nvim, tmux, firefox, hyprland, etc)
 - 🧃 energy drink enjoyer (RedBull is my favorite)
 - 🎓 jack of all trades, master of science in electrical and computer engineering @ Boston University
-- 📍 currently building at **Red Hat** in the Bay Area
+- 📍 currently building at **Red Hat** from the Bay Area
+- 🪨 occasionally will try to climb a rock or a tree (and might need help down)
 
 <br>
 <p align="center">
